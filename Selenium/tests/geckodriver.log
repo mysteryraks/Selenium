@@ -1,0 +1,494 @@
+1498332008375	geckodriver	INFO	Listening on 127.0.0.1:57876
+1498332008425	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498332010529	Marionette	INFO	Listening on port 57883
+1498332010616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498332010842	Marionette	DEBUG	loaded listener.js
+2017-06-24 12:20:10.937 plugin-container[3734:572765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 12:20:10.942 plugin-container[3734:572765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498332011167	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498332011468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498332011469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498332011888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332011951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498332011954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332012242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012251	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012262	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012275	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012286	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012294	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498332012384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=4&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxihqnp3y6uLEvfxsHY9N92j2YJWQSxyIIOHlDlABOKFcPxsuWIw7wJOZ2r5Asis8w1bplVbbpRDminyp_qa5i&encoded_two=AQTy21uHgAIDKVJBSGrDIGG4BrgQyID6CDhI_FdfkCzD2Olj-ez_V_Thu7QCWp_cqCufrslAL60hSNeDO31MUdjw"
+1498332012386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/sem_campaigns/sem_pixel_test/?google_pixel_category=4&google_pixel_src=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fviewthroughconversion%2F995153884%2F%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0&encoded_one=AQQxihqnp3y6uLEvfxsHY9N92j2YJWQSxyIIOHlDlABOKFcPxsuWIw7wJOZ2r5Asis8w1bplVbbpRDminyp_qa5i&encoded_two=AQTy21uHgAIDKVJBSGrDIGG4BrgQyID6CDhI_FdfkCzD2Olj-ez_V_Thu7QCWp_cqCufrslAL60hSNeDO31MUdjw"
+1498332012389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498332012684	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/user-lists/995153884/?value=1.00&currency_code=USD&label=szBrCMnWkWAQ3K_D2gM&guid=ON&script=0&cdct=2&is_vtc=1&random=1858600059&fpvtc=/995153884/%3Fvalue%3D1.00%26currency_code%3DUSD%26label%3DszBrCMnWkWAQ3K_D2gM%26guid%3DON%26script%3D0%26random%3D293742851%26cdct%3D2%26is_vtc%3D1"
+1498332012686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498332012776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498332012809	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498332013305	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498332013311	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498332013810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498332013814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498332013817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498332013849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014050	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014054	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014057	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014059	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014060	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014062	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332014063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498332014065	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332016496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/i/videos/tweet/878680964108394496?embed_source=clientlib&player_id=0&rpc_init=1"
+1498332016686	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/i/videos/tweet/878680964108394496?embed_source=clientlib&player_id=0&rpc_init=1"
+1498332016691	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498332016801	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3734] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498334461384	geckodriver	INFO	Listening on 127.0.0.1:58302
+1498334461438	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498334463544	Marionette	INFO	Listening on port 58309
+1498334463661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498334463855	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:01:03.958 plugin-container[3776:607811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:01:03.962 plugin-container[3776:607811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498334464210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498334464475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498334464475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498334464912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464965	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334464965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498334464967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334465261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465270	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465284	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465292	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498334465331	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498334465418	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498334465884	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498334465892	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498334466659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498334466680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498334466682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498334466687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498334466691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498334466698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466710	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466714	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466718	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466720	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466727	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466729	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334466729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498334466731	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334468163	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498334468187	Marionette	INFO	New connections will no longer be accepted
+[Child 3776] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498336251788	geckodriver	INFO	Listening on 127.0.0.1:58616
+1498336251840	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498336253942	Marionette	INFO	Listening on port 58623
+1498336254039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498336254253	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:30:54.341 plugin-container[3978:629359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:30:54.344 plugin-container[3978:629359] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498336254592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498336254877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498336254878	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498336255337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255350	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336255352	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255683	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255699	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255706	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336255764	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336255841	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498336256559	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498336256565	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498336257074	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498336257076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498336257078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498336257081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498336257083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498336257112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257134	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257139	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257142	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257145	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257148	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257150	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336257150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336257152	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336259706	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336259727	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3978] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498336275790	geckodriver	INFO	Listening on 127.0.0.1:58728
+1498336276846	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498336278987	Marionette	INFO	Listening on port 58737
+1498336279057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498336279307	Marionette	DEBUG	loaded listener.js
+2017-06-24 13:31:19.400 plugin-container[3987:630118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-24 13:31:19.401 plugin-container[3987:630118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498336279644	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498336279913	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498336279914	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498336280344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1498336280418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280707	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280723	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280733	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1498336280772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1498336280861	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1498336281369	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1498336281376	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1498336282001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498336282198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498336282199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1498336282201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1498336282204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1498336282212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282214	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282217	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282219	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282222	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282224	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282225	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336282226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/"
+1498336282227	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336283672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://twitter.com/i/videos/tweet/878705615899643904?embed_source=clientlib&player_id=0&rpc_init=1"
+1498336283863	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/i/videos/tweet/878705615899643904?embed_source=clientlib&player_id=0&rpc_init=1"
+1498336283868	Marionette	DEBUG	Received DOM event "pageshow" for "https://twitter.com/"
+1498336283963	Marionette	INFO	New connections will no longer be accepted
+[Child 3987] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1498629014706	geckodriver	INFO	Listening on 127.0.0.1:56677
+1498629015795	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498629018401	Marionette	INFO	Listening on port 56686
+1498629018486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498629018740	Marionette	DEBUG	loaded listener.js
+2017-06-27 22:50:18.841 plugin-container[9201:1666460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:50:18.846 plugin-container[9201:1666460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498629019091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498629019995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498629019995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498629023573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498629034221	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498629034680	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498629034686	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498629034782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498629041216	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498629041429	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498629045620	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498629045620	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498629049828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049834	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049837	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049839	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049841	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049842	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049847	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049850	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629049852	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629053460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629053473	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=1Bn3zw8FmkHqU44ib2Cx3h2Jlyd471lPNPucAIZDKwg="
+1498629053690	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1498629432220	geckodriver	INFO	Listening on 127.0.0.1:56962
+1498629432290	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498629434577	Marionette	INFO	Listening on port 56969
+1498629434642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498629434914	Marionette	DEBUG	loaded listener.js
+2017-06-27 22:57:15.014 plugin-container[9226:1670365] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:57:15.017 plugin-container[9226:1670365] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498629435257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498629436192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498629436193	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498629444680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498629450399	Marionette	INFO	New connections will no longer be accepted
+1498630535975	geckodriver	INFO	Listening on 127.0.0.1:57629
+1498630536031	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498630538297	Marionette	INFO	Listening on port 57636
+1498630538370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498630538654	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:15:38.752 plugin-container[9282:1685536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:15:38.755 plugin-container[9282:1685536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498630538979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498630540872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498630540873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498630545162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498630554103	Marionette	INFO	New connections will no longer be accepted
+1498630594270	geckodriver	INFO	Listening on 127.0.0.1:57704
+1498630594322	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498630596433	Marionette	INFO	Listening on port 57711
+1498630596533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498630596761	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:16:36.859 plugin-container[9294:1687343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:16:36.863 plugin-container[9294:1687343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498630597116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498630598009	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498630598010	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498630602348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498630622245	Marionette	INFO	New connections will no longer be accepted
+1498630641286	geckodriver	INFO	Listening on 127.0.0.1:57777
+1498630641340	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498630643518	Marionette	INFO	Listening on port 57784
+1498630643579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498630643850	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:17:23.947 plugin-container[9304:1688227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:17:23.950 plugin-container[9304:1688227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498630644181	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498630645061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498630645062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498630650342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498630658732	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498630658963	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498630661347	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498630661348	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498630668540	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668545	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668551	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668553	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668555	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668558	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668561	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668562	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630668564	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630671213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630671246	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=G0XNP0HT+BB/iiK0vmJ3EpS2GNDAcd4PLej2dEusIw0="
+1498630671629	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1498630760956	geckodriver	INFO	Listening on 127.0.0.1:58010
+1498630761015	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498630763204	Marionette	INFO	Listening on port 58017
+1498630763273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498630763555	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:19:23.655 plugin-container[9318:1689658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:19:23.656 plugin-container[9318:1689658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498630763915	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498630765166	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498630765166	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498630768869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498630787140	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498630787350	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498630789947	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498630789948	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498630793649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793655	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793660	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793661	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793664	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793666	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793669	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793671	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630793673	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630795824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630799023	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=etWLehhTWa3V5ceI+eo75Jjd+ZFrN2XVztBcXJ5a8ec="
+1498630799122	Marionette	INFO	New connections will no longer be accepted
+1498631148739	geckodriver	INFO	Listening on 127.0.0.1:58251
+1498631149794	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498631151957	Marionette	INFO	Listening on port 58260
+1498631152028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498631152288	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:25:52.388 plugin-container[9371:1693293] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:25:52.391 plugin-container[9371:1693293] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498631152614	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498631155283	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498631155283	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498631159663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498631170291	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498631170522	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498631175733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498631175820	Marionette	INFO	New connections will no longer be accepted
+1498631408421	geckodriver	INFO	Listening on 127.0.0.1:58732
+1498631408475	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498631410783	Marionette	INFO	Listening on port 58739
+1498631410897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498631411134	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:30:11.227 plugin-container[9398:1696600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:30:11.228 plugin-container[9398:1696600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498631411475	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498631413648	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498631413649	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498631417995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498631433712	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498631433938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498631436095	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498631436096	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498631439882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439890	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439902	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439904	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439906	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439909	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439911	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439914	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439918	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631439920	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631444856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631448758	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=JC0Y7ONkYkrJcvVSMWh5/0qSYPNNcyVR44Mue9haaXk="
+1498631448872	Marionette	INFO	New connections will no longer be accepted
+1498631603240	geckodriver	INFO	Listening on 127.0.0.1:59210
+1498631603293	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498631605506	Marionette	INFO	Listening on port 59217
+1498631605624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498631605842	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:33:25.937 plugin-container[9413:1699207] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:33:25.938 plugin-container[9413:1699207] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498631606194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498631607332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498631607332	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498631611444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498631631834	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498631632053	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498631635724	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498631635725	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498631642505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642511	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642515	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642518	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642522	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642525	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642528	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642531	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631642532	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631647636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631647648	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=ZfE8TPxLI3IKrht5H5tVrkpw80EM0WrV4Amo5wczn1Q="
+1498631647916	Marionette	INFO	New connections will no longer be accepted
+1498631670231	geckodriver	INFO	Listening on 127.0.0.1:59297
+1498631670284	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498631672510	Marionette	INFO	Listening on port 59304
+1498631672614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498631672850	Marionette	DEBUG	loaded listener.js
+2017-06-27 23:34:32.942 plugin-container[9423:1700809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:34:32.943 plugin-container[9423:1700809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498631673174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498631674401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498631674401	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498631681466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/"
+1498631693852	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/"
+1498631694074	Marionette	DEBUG	Received DOM event "beforeunload" for "https://easy.techmahindra.com/"
+1498631696552	Marionette	DEBUG	Received DOM event "pagehide" for "https://easy.techmahindra.com/"
+1498631696552	Marionette	DEBUG	Received DOM event "unload" for "https://easy.techmahindra.com/"
+1498631701185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701191	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701194	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701195	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701198	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701201	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701202	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701205	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631701209	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631704963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631705194	Marionette	DEBUG	Received DOM event "pageshow" for "https://easy.techmahindra.com/EasyHome.aspx?r=5MGnxFpcT1/JjQSGnQ+V9Whr7wobaJ0SBkjh66ttPyo="
+1498631705309	Marionette	INFO	New connections will no longer be accepted

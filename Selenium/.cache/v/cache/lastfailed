@@ -1,0 +1,4 @@
+{
+  "tests/easy/easy_test.py::EasyTests::test_easy_login": true,
+  "tests/easy/easy_test.py::EasyTests::test_select_the_desired_week": true
+}
